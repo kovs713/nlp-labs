@@ -1,0 +1,11 @@
+[project]
+name = "nlp-labs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "gradio>=6.5.1",
+    "groq>=1.0.0",
+    "python-dotenv>=1.2.1",
+]
