@@ -7,5 +7,14 @@ requires-python = ">=3.14"
 dependencies = [
     "gradio>=6.5.1",
     "groq>=1.0.0",
+    "huggingface-hub>=1.4.1",
+    "matplotlib>=3.10.8",
+    "nltk>=3.9.2",
+    "pandas>=3.0.0",
+    "pyarrow>=23.0.1",
+    "pymorphy3>=2.0.6",
     "python-dotenv>=1.2.1",
+    "spacy>=3.8.11",
+    "tqdm>=4.67.3",
+    "wordcloud>=1.9.6",
 ]
